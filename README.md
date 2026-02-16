@@ -88,8 +88,6 @@ Key observations:
 * Learning rate scheduling improved convergence stability.
 * Ensemble modeling did not outperform the best single model in this setting.
 
-(Insert training curves, prediction examples, or performance tables here.)
-
 ---
 
 ## Tools and Technologies
